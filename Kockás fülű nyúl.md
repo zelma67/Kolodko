@@ -1,0 +1,7 @@
+Kolodko Mihály „Kockás fülű nyúl” című miniszobra a magyar mese- és popkultúra egyik legkedvesebb alakját idézi meg, miközben hű marad az alkotó jellegzetes, ironikus és elgondolkodtató stílusához. A Kockás fülű nyúl generációk számára ismerős mesehős, aki furcsa, mégis szerethető figurájával a gyerekkor biztonságát, játékosságát és kreativitását szimbolizálja. Kolodko ezt az ikonikus alakot nem monumentális formában, hanem apró, szinte rejtőzködő szoborként helyezi el a városi térben.
+
+A miniszobor különlegessége abban rejlik, hogy egyszerre szól gyerekekhez és felnőttekhez. A fiatalabbak számára meseemlékeket idéz fel, míg a felnőttekben nosztalgiát ébreszt, visszavezetve őket egy egyszerűbb, gondtalanabb korszakba. A Kockás fülű nyúl figurája Kolodko értelmezésében nem csupán mesehős, hanem a képzelet és a szabadság jelképe is, amely a szürke városi környezetben különösen erős kontrasztot alkot.
+
+Az alkotás jól illeszkedik Kolodko miniszobrainak sorába, amelyek arra ösztönzik az embereket, hogy megálljanak egy pillanatra, körülnézzenek, és új jelentéseket fedezzenek fel a mindennapokban. A „Kockás fülű nyúl” szobor csendes, mégis hatásos üzenetet hordoz: a játékosság és a fantázia felnőttként sem veszíti el értékét.
+
+ChatGPT-t használtam.
