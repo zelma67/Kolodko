@@ -8,4 +8,6 @@ A melankólia és az elmélyültség erősen jelen van, akárcsak Seress zenéj�
 A miniszobor elhelyezése szintén fontos szerepet játszik az élményben. Kolodko gyakran olyan pontokat választ, ahol a járókelők váratlanul találkoznak műveivel. 
 Ez a felfedezés élménye itt is érvényesül: a szobor csendesen simul bele a városi környezetbe, miközben megállásra és gondolkodásra késztet. Nem hivalkodó, mégis mély nyomot hagy az emberben.
 
+
 A Kolodko Seress Rezső-szobor így egyszerre emlékmű és személyes gesztus: tisztelgés egy tragikus sorsú művész előtt, valamint bizonyíték arra, hogy a köztéri művészet kis méretben is képes nagy érzelmeket és kulturális értékeket közvetíteni.
+Forrás: Wikipedia, Chatgpt
