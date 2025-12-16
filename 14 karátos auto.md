@@ -9,4 +9,6 @@ A miniszobor elhelyezése sem véletlen: Kolodko gyakran választ olyan városi 
 Ez az „észrevétlen találkozás” különleges élményt ad, mert a szobor nem uralja a teret, hanem párbeszédet kezdeményez vele. 
 A 14 karátos autó így nemcsak egy irodalmi utalás, hanem egyfajta városi játék is, amely mosolyt csal az arra járók arcára.
 
+
 Összességében a Kolodko 14 karátos autó egyszerre tisztelgés Rejtő Jenő előtt és bizonyítéka annak, hogy a kortárs köztéri művészet képes humorral, finomsággal és kulturális mélységgel megszólítani a mindennapok emberét
+Forrás: Wikipedia, Chatgpt
