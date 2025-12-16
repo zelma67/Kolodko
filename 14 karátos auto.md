@@ -11,6 +11,6 @@ A 14 karátos autó így nemcsak egy irodalmi utalás, hanem egyfajta városi j�
 
 
 Összességében a Kolodko 14 karátos autó egyszerre tisztelgés Rejtő Jenő előtt és bizonyítéka annak, hogy a kortárs köztéri művészet képes humorral, finomsággal és kulturális mélységgel megszólítani a mindennapok emberét
-Forrás: Wikipedia, Chatgpt, itt jártam.hu. errearra.org
+
 
 
