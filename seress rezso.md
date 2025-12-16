@@ -10,4 +10,4 @@ Ez a felfedezés élménye itt is érvényesül: a szobor csendesen simul bele a
 
 
 A Kolodko Seress Rezső-szobor így egyszerre emlékmű és személyes gesztus: tisztelgés egy tragikus sorsú művész előtt, valamint bizonyíték arra, hogy a köztéri művészet kis méretben is képes nagy érzelmeket és kulturális értékeket közvetíteni.
-Forrás: Wikipedia, Chatgpt
+Forrás: Wikipedia, Chatgpt, itt jártam.hu 
