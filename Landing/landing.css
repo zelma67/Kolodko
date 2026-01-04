@@ -4,7 +4,6 @@
     --text-main: #e0e0e0;
     --text-muted: #a0a0a0;
     --accent: #d4af37;
-    /* Bronz/Arany szín a szobrokhoz */
     --accent-hover: #f3c645;
 }
 
@@ -15,7 +14,7 @@ body {
     overflow-x: hidden;
 }
 
-/* --- Navbar Stílus (Glassmorphism) --- */
+
 .navbar {
     background: rgba(18, 18, 18, 0.85);
     backdrop-filter: blur(10px);
@@ -61,7 +60,6 @@ body {
     left: 0;
 }
 
-/* --- Hero Section --- */
 .hero-section {
     height: 100vh;
     display: flex;
@@ -108,7 +106,7 @@ body {
     box-shadow: 0 0 15px var(--accent);
 }
 
-/* --- Content Sections --- */
+
 .section-padding {
     padding: 80px 0;
 }
@@ -125,7 +123,7 @@ body {
     letter-spacing: 2px;
 }
 
-/* Kartyák */
+
 .custom-card {
     background-color: var(--bg-card);
     border: none;
@@ -165,7 +163,7 @@ body {
     font-size: 0.9rem;
 }
 
-/* Footer */
+
 footer {
     background-color: #000;
     padding: 2rem 0;
@@ -174,7 +172,7 @@ footer {
     color: var(--text-muted);
 }
 
-/* Hamburger ikon színezése */
+
 .navbar-toggler {
     border: none;
 }
