@@ -1,12 +1,181 @@
 <!DOCTYPE html>
 <html lang="hu">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Galéria</title>
+    <title>Kolodko Galéria</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="galeria.css">
+    <link rel="shortcut icon" href="../z_Képek/szobor.png" type="image/x-icon">
 </head>
-<body>
-    <h1>Ez a weboldal még készülőben van.</h1>
+
+<body class="bg-light">
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand">KOLODKO</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="../Landing/landing.html">Vissza a főoldalra</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header class="gallery-header py-5 text-center text-white">
+        <div class="container py-4">
+            <h1 class="display-4 fw-bold">Kolodko Galéria</h1>
+        </div>
+    </header>
+
+    <section class="container my-5">
+        <div class="row g-4">
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/kocsi.jpg" alt="14 karátos autó">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">14 Karátos autó</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/among us.jpg" alt="Among us">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Among us</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/balta.jpg" alt="Baltás béke">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Baltás béke</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/drakula.jpg" alt="Drakula">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Drakula</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/nyuszi.jpg" alt="Kockás fülű nyúl">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Kockás fülű nyúl</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/lecso.jpg" alt="Lecsó">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Lecsó</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/seress.jpg" alt="Seress Rezső">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Seress Rezső</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4">
+                <div class="gallery-card" onclick="openModal(this)">
+                    <img src="../z_Képek/tank.jpg" alt="Szomorú tank">
+                    <div class="gallery-overlay">
+                        <div class="text-center">
+                            <h5 class="fw-bold">Szomomrú tank</h5>
+                            <span class="btn btn-outline-light btn-sm rounded-pill">Nagyítás</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p class="mb-0">&copy; 2026 Bethlen Gábor Technikum</p>
+            <small>Iskolai feladat által készített feladat, nem hivatalos.</small>
+        </div>
+    </footer>
+
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content bg-transparent border-0">
+                <div class="modal-body p-0 position-relative text-center">
+                    <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-3 z-3"
+                        data-bs-dismiss="modal" aria-label="Close"></button>
+                    <img src="" id="modalImage" class="img-fluid rounded shadow-lg" alt="Nagy kép">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function openModal(element) {
+            // Megkeressük a kattintott elemben lévő képet
+            var img = element.querySelector('img');
+            var src = img.src;
+
+            // Beállítjuk a Modalban lévő kép forrását erre
+            var modalImage = document.getElementById('modalImage');
+            modalImage.src = src;
+
+            // Megnyitjuk a Modalt
+            var myModal = new bootstrap.Modal(document.getElementById('imageModal'));
+            myModal.show();
+        }
+    </script>
+
 </body>
+
 </html>

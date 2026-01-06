@@ -1,13 +1,14 @@
 body {
      background-color: var(--bg-dark);
-     color: var(--text-main);
-     font-family: 'Poppins', sans-serif;
-     overflow-x: hidden;
-     display: flex;
-     flex-direction: column;
+    color: var(--text-main);
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
      min-height: 100vh;
-        }
- :root {
+}
+
+:root {
     --bg-dark: #121212;
     --bg-card: #1e1e1e;
     --text-main: #e0e0e0;
