@@ -1,9 +1,14 @@
 /* --- GALÉRIA OLDAL STÍLUSOK --- */
 
 /* Header háttér (sötét, elegáns) */
+
+body{
+    background: linear-gradient(#121212, #ffbf00);
+}
+
 .gallery-header {
     /* Ugyanaz a kép mehet ide, vagy egy másik sötét textúra */
-    background: linear-gradient(#121212, #f3c645 ), url('https://kolodkoart.com/uploads/slider/0/0_1_636728629421727500.jpeg');
+    background: linear-gradient(#121212, );
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
