@@ -6,6 +6,9 @@
     --accent: #d4af37;
     --accent-hover: #f3c645;
 }
+.text-muted {
+    color: gold;
+}
 
 body {
     background-color: var(--bg-dark);
