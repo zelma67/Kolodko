@@ -1,4 +1,14 @@
-body {
+:root {
+            --bg-dark: #121212;
+            --bg-card: #1e1e1e;
+            --text-main: #e0e0e0;
+            --text-muted: #a0a0a0;
+            --accent: #d4af37;
+            /* Bronz/Arany */
+            --accent-hover: #f3c645;
+        }
+
+        body {
             background-color: var(--bg-dark);
             color: var(--text-main);
             font-family: 'Poppins', sans-serif;
